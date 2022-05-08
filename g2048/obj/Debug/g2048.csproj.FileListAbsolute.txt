@@ -1,0 +1,9 @@
+C:\Users\Hossein\Desktop\new\g2048\g2048\bin\Debug\g2048.exe.config
+C:\Users\Hossein\Desktop\new\g2048\g2048\bin\Debug\g2048.exe
+C:\Users\Hossein\Desktop\new\g2048\g2048\bin\Debug\g2048.pdb
+C:\Users\Hossein\Desktop\new\g2048\g2048\obj\Debug\g2048.csprojResolveAssemblyReference.cache
+C:\Users\Hossein\Desktop\new\g2048\g2048\obj\Debug\g2048.Form1.resources
+C:\Users\Hossein\Desktop\new\g2048\g2048\obj\Debug\g2048.Properties.Resources.resources
+C:\Users\Hossein\Desktop\new\g2048\g2048\obj\Debug\g2048.csproj.GenerateResource.Cache
+C:\Users\Hossein\Desktop\new\g2048\g2048\obj\Debug\g2048.exe
+C:\Users\Hossein\Desktop\new\g2048\g2048\obj\Debug\g2048.pdb
